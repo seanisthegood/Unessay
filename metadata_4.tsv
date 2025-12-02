@@ -1,0 +1,32 @@
+work	hero	theme	quote	closest_concept	similarity_score
+mahabharata	arjuna	mastery	More marvels follow.	heroic greatness	0.2543
+mahabharata	arjuna	skill	Arjuna moves swiftly with the panache and poise of a great dancer.	divine power	0.2466
+mahabharata	arjuna	confidence	He is master of his body, never doubting that he can transcend nature’s normal laws.	divine power	0.3846
+mahabharata	arjuna	divine_power	He changes size at will.	human limitation	0.2206
+mahabharata	arjuna	divine_power	He conjures mountains.	impossible feats	0.2490
+mahabharata	arjuna	skill	He shoots an arrow into the sand, making the ground split wide open in front of him.	trained skill	0.1816
+mahabharata	arjuna	divine_power	He stands with his eyes closed, his lips moving in a silent mantra.	divine power	0.2340
+mahabharata	arjuna	skill	He shoots an arrow straight into the sky.	divine intervention	0.1995
+mahabharata	arjuna	divine_power	Slowly it rises.	divine power	0.2534
+mahabharata	arjuna	divine_power	Then it begins to glow.	divine power	0.1717
+mahabharata	arjuna	divine_power	Then it blazes.	divine power	0.1598
+mahabharata	arjuna	divine_power	The sky is on fire over the arena.	divine power	0.2132
+mahabharata	arjuna	fear	The crowd cringes in terror.	tragic greatness	0.2705
+mahabharata	arjuna	divine_power	A moment later, a stream of flashing silver arcs upward.	divine intervention	0.2512
+mahabharata	arjuna	divine_power	Instantly the sky becomes a sea, an upside-down ocean, quenching the flames.	tragic greatness	0.2111
+mahabharata	arjuna	divine_power	These are truly weapons of the gods!	divine power	0.3736
+mahabharata	karna	divine_power	so I would guess his mysterious birth must hold a clue to his greatness	divine greatness	0.4206
+odyssey	telemachus	doubt	Ugh! It seems that I will always be too weak and useless.	inner strength	0.3989
+odyssey	telemachus	contest	Perhaps I am too young and inexperienced at fighting in self-defense.	trained skill	0.3150
+odyssey	telemachus	contest	You all are stronger than I am.	inner strength	0.4351
+odyssey	telemachus	contest	You try, and we can end the contest.	overcoming doubt	0.2568
+odyssey	odysseus	skill	Odysseus examined the mighty bow carefully, inch by inch.	effortless mastery	0.1970
+odyssey	odysseus	skill	He handled the bow as easily as a musician stretches a sheep-gut string around a lyre’s peg.	trained skill	0.1879
+odyssey	odysseus	greatness	Odysseus, with ease, strung the great bow.	heroic greatness	0.2809
+odyssey	odysseus	skill	He held the bow in his right hand and plucked the string.	trained skill	0.2019
+odyssey	odysseus	skill	The string sang like swallow-song, a clear sweet note.	hidden suffering	0.2127
+odyssey	odysseus	skill	With careful aim, he shot.	trained skill	0.3239
+odyssey	odysseus	greatness	The weighted tip of bronze flew through each axe head and out the other side.	trained skill	0.1600
+odyssey	odysseus	identity	He told his son, 'I am here now.'	divine intervention	0.1557
+odyssey	odysseus	suffering	I suffered terribly for twenty years.	hidden suffering	0.4251
+odyssey	odysseus	homecoming	Now I have come back to my own land.	moral duty	0.2319
